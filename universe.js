@@ -105,7 +105,7 @@ function spacetimeCurvature({ massDensity, pressureTensor }) {
     geodesic: 'the straightest possible path through curved spacetime',
     whatYouFeel: 'the ground pushing up against you, resisting freefall',
     whatGravityActuallyIs: 'curvature, not force',
-    cosmologicalConstant: 'Λ — Einstein's biggest blunder, or his greatest insight',
+    cosmologicalConstant: "Λ — Einstein's biggest blunder, or his greatest insight",
     // He added Λ to keep the universe static, then removed it when Hubble
     // showed the universe was expanding. Dark energy brought it back.
   };
