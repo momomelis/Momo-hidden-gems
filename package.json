@@ -1,0 +1,19 @@
+{
+  "name": "momo-hidden-gems",
+  "version": "1.0.0",
+  "description": "Hidden Gems of Momo",
+  "main": "universe.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://local_proxy@127.0.0.1:58433/git/momomelis/Momo-hidden-gems"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
