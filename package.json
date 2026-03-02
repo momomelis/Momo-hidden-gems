@@ -4,7 +4,8 @@
   "description": "Hidden Gems of Momo",
   "main": "universe.js",
   "scripts": {
-    "test": "jest --coverage"
+    "test": "jest --coverage",
+    "prepare": "husky"
   },
   "repository": {
     "type": "git",
@@ -14,6 +15,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@commitlint/cli": "^20.4.2",
+    "@commitlint/config-conventional": "^20.4.2",
+    "husky": "^9.1.7",
     "jest": "^30.2.0"
   }
 }
